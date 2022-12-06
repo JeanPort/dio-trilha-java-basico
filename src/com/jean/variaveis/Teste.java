@@ -1,6 +1,6 @@
 package com.jean.variaveis;
 
-public class Numero {
+public class Teste {
     public static void main(String [] args) {
 
     }
