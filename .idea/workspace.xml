@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="412c86d0-2a93-48b5-9dc7-8f7ea48abf39" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/src/com/jean/variaveis/Numero.java" beforeDir="false" />
-    </list>
+    <list default="true" id="412c86d0-2a93-48b5-9dc7-8f7ea48abf39" name="Changes" comment="Delete Numero.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="JeanPort &lt;109631113+jeanport@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -50,7 +56,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670298666345</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Delete Numero.java">
+      <created>1670299094648</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670299094648</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Delete Numero.java">
+      <created>1670299124685</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670299124685</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -66,6 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Delete Numero.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete Numero.java" />
   </component>
 </project>
